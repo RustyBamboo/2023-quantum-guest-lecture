@@ -319,6 +319,31 @@ $$\rho_S^\prime = \mathcal{E}(\rho_S)$$
   - Decoherence, Re-coherence, etc
 - Quantum channels $\mathcal{E}$ capture all physical processes
 
+# Quantum Computing
+
+## Discretization
+
+- $\ket{+} = H \ket{0}$
+  
+![](images/qubit_rot.gif){width=350px}
+
+
+## Building blocks
+
+![](images/circuit.png){width=400px}
+
+## Quantum Channels
+
+![](images/tomo.png)
+
+- Try to understand the quantum process during a given amount of time
+
+## Quantum Error Correction
+
+![](images/surface.png){width=400px}
+
+- Fight unwanted entanglement with wanted entanglement
+
 # Thanks!
 
 ## Source
