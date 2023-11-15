@@ -1,0 +1,26 @@
+// {
+//     "runOnSave.statusMessageTimeout": 3000,
+//     "runOnSave.commands": [
+//         {
+//             "match": ".*\\.md$",
+//             "command": "make",
+//             "runIn": "terminal"
+//         }
+//     ]
+// }
+{
+    "emeraldwalk.runonsave": {
+        "commands": [
+            {
+                "match": ".*\\.md$",
+                "isAsync": true,
+                "cmd": "make"
+            },
+            {
+                "match": "images/.*$",
+                "isAsync": true,
+                "cmd": "make"
+            }
+        ]
+    }
+}
