@@ -318,3 +318,11 @@ $$\rho_S^\prime = \mathcal{E}(\rho_S)$$
 - Entanglement with an environment
   - Decoherence, Re-coherence, etc
 - Quantum channels $\mathcal{E}$ capture all physical processes
+
+# Thanks!
+
+## Source
+
+![](images/qr.png)
+
+[github.com/RustyBamboo/2023-quantum-guest-lecture](https://github.com/RustyBamboo/2023-quantum-guest-lecture)
